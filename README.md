@@ -1,2 +1,2 @@
 # Hackto
-Understanding hackto
+helps in understanding hackto
